@@ -4,8 +4,8 @@ Simple project showing how to wrapper a YTPlayerView into SwiftUI code.
 
 # Running
 1. Install CocoaPods
-2. Run pod install in the podfile directory from your terminal
-3. Open up the .xcworkspace that CocoaPods created
+2. Run `pod install` in the podfile directory from your terminal
+3. Open up the `.xcworkspace` that CocoaPods created
 
 # Helper tutorials: 
 - https://www.youtube.com/watch?v=bsM1qdGAVbU

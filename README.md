@@ -1,6 +1,6 @@
 # SwiftUI-YoutubePlayer
 
-Simple project showing how to wrapper a YTPlayerView into SwiftUI code. 
+Simple project showing how to wrap a YTPlayerView into SwiftUI code. 
 
 # Running
 1. Install CocoaPods
